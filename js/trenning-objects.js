@@ -173,3 +173,9 @@ console.log(countTotalSalary({ kiwi: 200, poly: 50, ajax: 150 })); // 400
 // Object.values(salaries) zwraca tablicę wartości (wynagrodzeń) z obiektu salaries.
 // Pętla for...of przechodzi przez każdą wartość w tablicy i dodaje ją do totalSalary.
 // totalSalary jest zwracane jako wynik.
+
+
+
+
+
+
